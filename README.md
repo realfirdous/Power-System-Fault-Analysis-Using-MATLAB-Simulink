@@ -17,8 +17,3 @@ This project focuses on modelling and analysing different types of faults in a p
 - Power System Analysis
 - Power System Protection
 
-## Project Files
-Upload the actual Simulink model (`.slx`), MATLAB scripts (`.m`), and relevant simulation graphs or screenshots.
-
-## Simulation Results
-Add your actual fault-current waveforms, voltage profiles, and observations for each simulated fault here.
